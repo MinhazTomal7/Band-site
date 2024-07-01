@@ -1,0 +1,74 @@
+.navbar{
+    background-color: black;
+    color: white;
+}
+.nav-item{
+    padding-right: 10%;
+    padding-left: 15%;
+}
+.text{
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    left: 43%;
+    color: white;
+}
+
+ .band-text{
+    margin: 5%  20% 5%;
+    text-align: center;
+}
+
+.brand-pic{
+    text-align: center;
+   margin:0% 15% 5% ;
+}
+
+#date{
+    background-color: black;
+
+}
+.date-text{
+    padding: 5%  20% ;
+    text-align: center;
+    color: white
+}
+.card-css{
+    color: black;
+    text-align: left;
+  
+}
+
+#contact{
+    margin: 4%;
+}
+
+.contact-text{
+    padding: 5%  20% ;
+    text-align: center;
+    
+}
+
+.form{
+    margin-right: 30%;
+}
+
+.icons{
+    width: 50%;
+    margin-left: 30%;
+    float: left;
+}
+
+.icon{
+   margin: 5px 20px;
+}
+
+.send-btn{
+    margin-left: 95%;
+}
+
+footer{
+    margin: 3%;
+    color: gray;
+    text-align: center;
+}
